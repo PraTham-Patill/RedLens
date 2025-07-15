@@ -1,17 +1,4 @@
 
-#!/usr/bin/env python3
-"""
-Reddit User Persona Analyzer
-============================
-
-A script that scrapes Reddit user profiles and generates comprehensive user personas
-using web scraping and LLM analysis.
-
-Assignment for BeyondChats AI/LLM Engineer Intern Position
-Date: July 15, 2025
-GitHub: https://github.com/PraTham-Patill/RedLens
-Branch: RedLens
-"""
 
 import requests
 import json
