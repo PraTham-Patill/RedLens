@@ -58,6 +58,10 @@ temp/
 *.tmp
 *.temp
 
-# Personal data
-*_persona.txt
+# Personal data (but keep sample files for assignment)
+# *_persona.txt  # Commented out to include sample files
 personas/
+
+# Exclude sample files from ignore
+!kojied_persona.txt
+!Hungry-Move-6603_persona.txt
