@@ -176,7 +176,6 @@ This Reddit User Persona Analyzer demonstrates strong technical skills, attentio
 ---
 
 **Developed for**: BeyondChats AI/LLM Engineer Internship  
-**Developer**: Patil (RedLens)  
 **Submission Date**: July 15, 2025  
 **Total Development Time**: Completed within 48-hour deadline  
 **Repository Status**: Ready for public GitHub submission  

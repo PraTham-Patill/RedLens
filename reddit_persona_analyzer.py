@@ -8,9 +8,8 @@ A script that scrapes Reddit user profiles and generates comprehensive user pers
 using web scraping and LLM analysis.
 
 Assignment for BeyondChats AI/LLM Engineer Intern Position
-Author: Patil (RedLens)
 Date: July 15, 2025
-GitHub: https://github.com/your-username/reddit-persona-analyzer-beyondchats
+GitHub: https://github.com/PraTham-Patill/RedLens
 Branch: RedLens
 """
 

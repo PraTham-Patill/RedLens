@@ -16,7 +16,6 @@ def print_banner():
     print("🚀 REDDIT PERSONA ANALYZER - DEMONSTRATION")
     print("=" * 80)
     print("Assignment for: BeyondChats AI/LLM Engineer Intern Position")
-    print("Developed by: Patil (RedLens)")
     print("Date: July 15, 2025")
     print("GitHub Branch: RedLens")
     print("=" * 80)

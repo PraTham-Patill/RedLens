@@ -226,7 +226,6 @@ For questions about this implementation or the assignment, please contact throug
 - **Technologies Used**: Python, Web Scraping, Data Analysis, Text Processing
 - **Assignment Requirements**: ✅ All completed as specified
 
-**Author**: Patil (RedLens)  
 **Date**: July 15, 2025  
 **Assignment Deadline**: 48 hours from assignment receipt  
-**GitHub Repository**: https://github.com/your-username/reddit-persona-analyzer-beyondchats
+**GitHub Repository**: https://github.com/PraTham-Patill/RedLens
